@@ -18,7 +18,7 @@
 int ploadPin        = 27;  // Connects to Parallel load pin the 165 -pin1
 int clockEnablePin  = 25;  // Connects to Clock Enable pin the 165 -pin15
 int dataPin         = 26; // Connects to the Q7 pin the 165 -pin9
-int clockPin        = 17; // Connects to the Clock pin the 165 -pin2
+int clockPin        = 18; // Connects to the Clock pin the 165 -pin2
 
 BYTES_VAL_T pinValues;
 BYTES_VAL_T oldPinValues;
